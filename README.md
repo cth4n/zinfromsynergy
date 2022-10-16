@@ -1,8 +1,11 @@
-### Hi, I'm Zin.
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/548200697473138708)](https://discord.com/users/548200697473138708)
+# 👋 Hey, I'm Zin.
 
+
+## 🚀 About Me
 Self taught, I mess with HTML and Docker stuff.
 
 - 🖥️ I currently work on little projects for myself.
-- 🔗 I have a website that can be found at [my website](https://zin.tempocraft.xyz)
+- 🔗 I have a website that can be found at [just click here](https://zin.tempocraft.xyz).
+ 
+  [![Discord Presence](https://lanyard.cnrad.dev/api/548200697473138708)](https://discord.com/users/548200697473138708)
