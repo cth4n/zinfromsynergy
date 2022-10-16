@@ -1,6 +1,6 @@
 ### Hi, I'm Zin.
 
-<img align="right" width="100" height="100" src="[![Discord Presence](https://lanyard.cnrad.dev/api/548200697473138708)](https://discord.com/users/548200697473138708)">
+[![Discord Presence](https://lanyard.cnrad.dev/api/548200697473138708)](https://discord.com/users/548200697473138708)
 
 Self taught, I mess with HTML and Docker stuff.
 
