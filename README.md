@@ -1,5 +1,5 @@
 
-# 👋 Hey, I'm Zin.
+# 👋 Hey, I'm Cth4n.
 
 
 ## 🚀 About Me
